@@ -1,0 +1,32 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\bin\Debug\MixCharts.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\bin\Debug\MixCharts.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\bin\Debug\MixCharts.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\obj\Debug\MixCharts.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\obj\Debug\MixCharts.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\obj\Debug\MixCharts.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\obj\Debug\MixCharts.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\obj\Debug\MixCharts.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\obj\Debug\MixCharts.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\MixCharts\MixCharts\obj\Debug\MixCharts.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\bin\Debug\MixCharts.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\bin\Debug\MixCharts.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\bin\Debug\MixCharts.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\obj\Debug\MixCharts.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\obj\Debug\MixCharts.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\obj\Debug\MixCharts.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\obj\Debug\MixCharts.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\obj\Debug\MixCharts.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\obj\Debug\MixCharts.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\MixCharts\MixCharts\bin\Debug\Dati\IceCreams.csv
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\bin\Debug\MixCharts.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\bin\Debug\MixCharts.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\bin\Debug\MixCharts.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\bin\Debug\Dati\DataSample.csv
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.Form2.resources

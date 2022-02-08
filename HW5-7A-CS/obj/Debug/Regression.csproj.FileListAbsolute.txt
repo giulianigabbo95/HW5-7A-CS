@@ -1,0 +1,34 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\Regression.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\Regression.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\Regression.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MixCharts.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\bin\Debug\Dati\DataSample.csv
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\bin\Debug\MixCharts.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\bin\Debug\MixCharts.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\bin\Debug\MixCharts.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Intercetta\MixCharts\obj\Debug\MyHomework.Form2.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\bin\Debug\Dati\DataSample.csv
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\bin\Debug\Regression.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\bin\Debug\Regression.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\bin\Debug\Regression.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\obj\Debug\MyHomework.Form2.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\obj\Debug\Regression.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\obj\Debug\Regression.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\obj\Debug\Regression.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\obj\Debug\Regression.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\obj\Debug\Regression.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\4 - Regression\Regression\obj\Debug\Regression.csprojAssemblyReference.cache
+E:\4 - Regression\Regression\bin\Debug\Dati\DataSample.csv
+E:\4 - Regression\Regression\bin\Debug\Regression.exe.config
+E:\4 - Regression\Regression\bin\Debug\Regression.exe
+E:\4 - Regression\Regression\bin\Debug\Regression.pdb
+E:\4 - Regression\Regression\obj\Debug\Regression.csprojAssemblyReference.cache
+E:\4 - Regression\Regression\obj\Debug\MyHomework.Form2.resources
+E:\4 - Regression\Regression\obj\Debug\Regression.Properties.Resources.resources
+E:\4 - Regression\Regression\obj\Debug\Regression.csproj.GenerateResource.cache
+E:\4 - Regression\Regression\obj\Debug\Regression.csproj.CoreCompileInputs.cache
+E:\4 - Regression\Regression\obj\Debug\Regression.exe
+E:\4 - Regression\Regression\obj\Debug\Regression.pdb
